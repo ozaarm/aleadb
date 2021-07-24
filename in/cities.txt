@@ -1,0 +1,279 @@
+city,country,state,worldregion,lat,long
+Brisbane,Australia,,apac,-27.4689682,153.0234991
+Sydney,Australia,,apac,-33.8548157,151.2164539
+Canberra,Australia,,apac,-35.2975906,149.1012676
+Melbourne,Australia,,apac,-37.8142176,144.9631608
+Adelaide,Australia,,apac,-34.9284970,138.6007390
+Darwin,Australia,,apac,-12.4604400,130.8410469
+Perth,Australia,,apac,-31.9527121,115.8604796
+Taipei,China,,apac,25.0561391,121.5997951
+Shanghai,China,,apac,31.2322758,121.4692071
+Tianjin,China,,apac,39.0856735,117.1951073
+Beijing,China,,apac,39.9062170,116.3912757
+Wuhan,China,,apac,30.5951051,114.2999353
+Hong Kong,China,,apac,22.2793278,114.1628131
+Guangzhou,China,,apac,23.1301964,113.2592945
+Kolkata,India,,apac,22.5726723,88.3638815
+Lucknow,India,,apac,26.8381000,80.9346001
+Chennai,India,,apac,13.0836939,80.2701860
+Hyderabad,India,,apac,17.3605890,78.4740613
+Bangalore,India,,apac,12.9791198,77.5912997
+Delhi,India,,apac,28.6517178,77.2219388
+Jaipur,India,,apac,26.9154576,75.8189817
+Pune,India,,apac,18.5214280,73.8544541
+Mumbai,India,,apac,19.0759899,72.8773928
+Surat,India,,apac,21.1864607,72.8081281
+Ahmedabad,India,,apac,23.0145090,72.5917590
+Makassar,Indonesia,,apac,-5.1342962,119.4124282
+Balikpapan,Indonesia,,apac,-1.2781800,116.8233570
+Surabaya,Indonesia,,apac,-7.2459717,112.7378266
+Bandung,Indonesia,,apac,-6.9174640,107.6191250
+Jakarta,Indonesia,,apac,-6.1753942,106.8271830
+Sapporo,Japan,,apac,43.0619360,141.3542924
+Tokio,Japan,,apac,35.6828387,139.7594549
+Yokohama,Japan,,apac,35.4449910,139.6367680
+Nagoya,Japan,,apac,35.1851045,136.8998438
+Kyoto,Japan,,apac,35.0210410,135.7556075
+Osaka,Japan,,apac,34.6198813,135.4903570
+Kobe,Japan,,apac,34.6932379,135.1943764
+Fukuoka,Japan,,apac,33.6251241,130.6180016
+Kuala Lumpur,Malaysia,,apac,3.1516964,101.6942371
+Wellington,New Zealand,,apac,-41.2887953,174.7772114
+Auckland,New Zealand,,apac,-36.8484610,174.7633360
+Christchurch,New Zealand,,apac,-43.5309550,172.6366455
+Cebu,Philippines,,apac,10.4500000,123.8400000
+Manila,Philippines,,apac,14.5907332,120.9809674
+Singapore,Singapore,,apac,1.3571070,103.8194992
+Bangkok,Thailand,,apac,13.7544238,100.4930399
+Ho chi Minh-Ville,Vietnam,,apac,10.7715512,106.6983801
+Hanoi,Vietnam,,apac,21.0294498,105.8544441
+Vienna,Austria,,europe,48.2083537,16.3725042
+Tulln,Austria,,europe,48.3311686,16.0567744
+Graz,Austria,,europe,47.0708678,15.4382786
+Klagenfurt,Austria,,europe,46.6228162,14.3079604
+Linz,Austria,,europe,48.3059078,14.2861980
+Salzburg,Austria,,europe,47.7981346,13.0464806
+Minsk,Belarus,,europe,53.9023340,27.5618791
+Antwerp,Belgium,,europe,51.2211097,4.3997081
+Brussels,Belgium,,europe,50.8437350,4.3597792
+Bruges,Belgium,,europe,51.2085526,3.2267720
+Brno,Czech Republic,,europe,49.1922443,16.6113382
+Prague,Czech Republic,,europe,50.0596288,14.4464593
+Copenhagen,Denmark,,europe,55.6867243,12.5700724
+London,England,,europe,51.5073219,-0.1276474
+Brighton,England,,europe,50.8214626,-0.1400561
+Manchester,England,,europe,53.4794892,-2.2451148
+Liverpool,England,,europe,53.4071991,-2.9916800
+Tallinn,Estonia,,europe,59.4372155,24.7453688
+Helsinki,Finland,,europe,60.1674881,24.9427473
+Strasbourg,France,,europe,48.5846140,7.7507127
+Nice,France,,europe,43.7009358,7.2683912
+Cannes,France,,europe,43.5515198,7.0134418
+Sochaux,France,,europe,47.5138206,6.8303896
+Toulon,France,,europe,43.1257311,5.9304919
+Grenoble,France,,europe,45.1875602,5.7357819
+Aix-en-Provence,France,,europe,43.5298424,5.4474738
+Marseille,France,,europe,43.2961743,5.3699525
+Lyon,France,,europe,45.7578137,4.8320114
+Saint-Etienne,France,,europe,45.4401467,4.3873058
+Lille,France,,europe,50.6365654,3.0635282
+Narbonne,France,,europe,43.1837661,3.0042121
+Paris,France,,europe,48.8566969,2.3514616
+Amiens,France,,europe,49.8941708,2.2956951
+Toulouse,France,,europe,43.6044622,1.4442469
+Rouen,France,,europe,49.4404591,1.0939658
+Niort,France,,europe,46.3241132,-0.4649403
+Bordeaux,France,,europe,44.8412250,-0.5800364
+Rochefort,France,,europe,45.9438412,-0.9687519
+La Rochelle,France,,europe,46.1591126,-1.1520434
+Nantes,France,,europe,47.2186371,-1.5541362
+Landivisiau,France,,europe,48.5127551,-4.0699356
+Brest,France,,europe,48.3905283,-4.4860088
+Dresden,Germany,,europe,51.0493286,13.7381437
+Berlin,Germany,,europe,52.5170365,13.3888599
+Munich,Germany,,europe,48.1371079,11.5753822
+Hamburg,Germany,,europe,53.5503410,10.0006540
+Stuttgart,Germany,,europe,48.7784485,9.1800132
+Frankfurt,Germany,,europe,50.1106444,8.6820917
+Kehl,Germany,,europe,48.5728929,7.8109768
+Bonn,Germany,,europe,50.7358510,7.1006600
+Cologne,Germany,,europe,50.9383610,6.9599740
+Düsseldorf,Germany,,europe,51.2254018,6.7763137
+Mönchengladbach,Germany,,europe,51.1946983,6.4353641
+Athens,Greece,,europe,37.9839412,23.7283052
+Kalamata,Greece,,europe,37.0377582,22.1109392
+Szeged,Hungary,,europe,46.2546312,20.1486016
+Budapest,Hungary,,europe,47.4979937,19.0403594
+Györ,Hungary,,europe,47.6876090,17.6346815
+Rejkjavik,Iceland,,europe,64.1459810,-21.9422367
+Dublin,Ireland,,europe,53.3497645,-6.2602732
+Cork,Ireland,,europe,51.8970770,-8.4654674
+Limerick,Ireland,,europe,52.6612520,-8.6301239
+Galway,Ireland,,europe,53.1439907,-9.4694862
+Naples,Italy,,europe,40.8359336,14.2487826
+Napoli,Italy,,europe,40.8359336,14.2487826
+Rome,Italy,,europe,41.8933203,12.4829321
+Venezia,Italy,,europe,45.4371908,12.3345898
+Bologna,Italy,,europe,44.4937577,11.3430308
+Firenze,Italy,,europe,43.7698712,11.2555757
+Pisa,Italy,,europe,43.7159395,10.4018624
+Milan,Italy,,europe,45.4668000,9.1905000
+Genoa,Italy,,europe,44.4072600,8.9338624
+Genova,Italy,,europe,44.4072600,8.9338624
+Torino,Italy,,europe,45.0677551,7.6824892
+Riga,Latvia,,europe,56.9493977,24.1051846
+Vilnius,Lithuania,,europe,54.6870458,25.2829111
+Skopje,Macedonia,,europe,41.9960924,21.4316495
+Amsterdam,Netherlands,,europe,52.3727598,4.8936041
+Rotterdam,Netherlands,,europe,51.9228934,4.4631786
+The Hague,Netherlands,,europe,52.0799838,4.3113461
+Oslo,Norway,,europe,59.9133301,10.7389701
+Warsaw,Poland,,europe,52.2319581,21.0067249
+Kraków,Poland,,europe,50.0469432,19.9971534
+Cracow,Poland,,europe,50.0606742,19.9371393
+Wroclaw,Poland,,europe,51.1263106,16.9781963
+Faro,Portugal,,europe,37.0162727,-7.9351771
+Braga,Portugal,,europe,41.5510583,-8.4280045
+Coimbra,Portugal,,europe,40.2111931,-8.4294632
+Porto,Portugal,,europe,41.1494512,-8.6107884
+Lisbon,Portugal,,europe,38.7077507,-9.1365919
+Constanta,Romania,,europe,44.1767161,28.6507598
+Bucarest,Romania,,europe,44.4361414,26.1027202
+Timisoara,Romania,,europe,45.7538355,21.2257474
+Vladivostok,Russia,,europe,43.1150678,131.8855768
+Moscow,Russia,,europe,55.7504461,37.6174943
+San Petersburg,Russia,,europe,59.9332206,30.3348181
+Edinburgh,Scotland,,europe,55.9533456,-3.1883749
+Glasgow,Scotland,,europe,55.8609825,-4.2488787
+Bratislava,Slovakia,,europe,48.1516988,17.1093063
+Ljubljana,Slovenia,,europe,46.0499803,14.5068602
+Palma,Spain,,europe,39.5695818,2.6500745
+Barcelona,Spain,,europe,41.3828939,2.1774322
+Valencia,Spain,,europe,39.4697065,-0.3763353
+Alicante,Spain,,europe,38.3436365,-0.4881708
+Zaragoza,Spain,,europe,41.6521342,-0.8809428
+Murcia,Spain,,europe,37.9923795,-1.1305431
+San Sebastian,Spain,,europe,43.3224219,-1.9838889
+Bilbao,Spain,,europe,43.2630018,-2.9350039
+Madrid,Spain,,europe,40.4167047,-3.7035825
+Malaga,Spain,,europe,36.7213028,-4.4216366
+Malaga,Spain,,europe,36.7213028,-4.4216366
+Valladolid,Spain,,europe,41.6521328,-4.7285620
+Cordoba,Spain,,europe,37.8845813,-4.7760138
+Córdoba,Spain,,europe,37.8845813,-4.7760138
+Gijón,Spain,,europe,43.5450394,-5.6626443
+Granda,Spain,,europe,43.6497395,-5.8566972
+Sevilla,Spain,,europe,37.3886303,-5.9953403
+Santiago de Compostela,Spain,,europe,42.8804219,-8.5458608
+Vigo,Spain,,europe,42.2376602,-8.7247205
+Stockholm,Sweden,,europe,59.3251172,18.0710935
+Lund,Sweden,,europe,55.7029296,13.1929449
+Malmö,Sweden,,europe,55.6052931,13.0001566
+Göteborg,Sweden,,europe,57.7072326,11.9670171
+Zurich,Switzerland,,europe,47.3744489,8.5410422
+Bern,Switzerland,,europe,46.9482713,7.4514512
+Geneva,Switzerland,,europe,46.2017559,6.1466014
+Geneva,Switzerland,,europe,46.2017559,6.1466014
+Konia,Turkey,,europe,37.8768240,32.4865749
+Donetsk,Ukraine,,europe,48.0158753,37.8013407
+Dnipropetrovsk,Ukraine,,europe,48.473301,35.001911
+Kiev,Ukraine,,europe,50.4500336,30.5241361
+Lviv,Ukraine,,europe,49.8419520,24.0315921
+Cardiff,Wales,,europe,51.4816546,-3.1791934
+Buenos Aires,Argentina,,latam,-34.6075682,-58.4370894
+Rosario,Argentina,,latam,-32.9595004,-60.6615415
+Córdoba,Argentina,,latam,-31.4173391,-64.1833190
+La Paz,Bolivia,,latam,-16.4955455,-68.1336229
+Recife,Brazil,,latam,-8.0584933,-34.8848193
+Salvador,Brazil,,latam,-12.9822499,-38.4812772
+Fortaleza,Brazil,,latam,-3.7304512,-38.5217989
+Rio de Janeiro,Brazil,,latam,-22.9110137,-43.2093727
+Brasilia,Brazil,,latam,-10.3333333,-53.2000000
+Santiago,Chili,,latam,-33.4377756,-70.6504502
+Bogotá,Colombia,,latam,4.6533326,-74.0836520
+Santo Domingo,Dominican Republic,,latam,18.4801972,-69.9421110
+Asunción,Paraguay,,latam,-25.2800459,-57.6343814
+Montevideo,Uruguay,,latam,-34.9058916,-56.1913095
+Caracas,Venezuela,,latam,10.5060980,-66.9146017
+Accra,Ghana,,mea,5.5571096,-0.2012376
+Kumasi,Ghana,,mea,6.6980810,-1.6230404
+Conakry,Guinea,,mea,9.5170602,-13.6998434
+Abidjan,Ivory Coast,,mea,5.3203570,-4.0161070
+Diego Suarez,Madagascar,,mea,-12.2779134,49.2913394
+Antananarivo,Madagascar,,mea,-18.9100122,47.5255809
+Marrakech,Marocco,,mea,31.6258257,-7.9891608
+Kano,Nigeria,,mea,11.8948389,8.5364136
+Abuja,Nigeria,,mea,9.0643305,7.4892974
+Lagos,Nigeria,,mea,6.4550575,3.3941795
+Kigali,Rwanda,,mea,-1.9508510,30.0615070
+Capetown,South Africa,,mea,-33.9224048,18.4157172
+Tunis,Tunisia,,mea,33.8439408,9.4001380
+Ankara,Turkey,,mea,39.9207893,32.8540412
+Antalya,Turkey,,mea,36.9009641,30.6954846
+Istanbul,Turkey,,mea,41.0096334,28.9651646
+Izmir,Turkey,,mea,38.4147331,27.1434119
+Montreal,Canada,,northam,45.4972159,-73.6103642
+Toronto,Canada,,northam,43.6534817,-79.3839347
+Vancouver,Canada,,northam,49.2608724,-123.1139529
+Boston,United States,Massachusetts,northam,42.3602534,-71.0582912
+Providence,United States,Rhode Island,northam,41.8239891,-71.4128343
+Concord,United States,New Hampshire,northam,43.2071780,-71.5374760
+Montpelier,United States,Vermont,northam,44.2602164,-72.5751140
+Hartford,United States,Connecticut,northam,41.7655582,-72.6906128
+Albany,United States,New York,northam,42.6511674,-73.7549680
+New York,United States,New York,northam,40.7127281,-74.0060152
+Trenton,United States,New Jersey,northam,40.2170575,-74.7429463
+Philadelphia,United States,Pennsylvania,northam,39.9527237,-75.1635262
+Dover,United States,Delaware,northam,39.1581680,-75.5243682
+Annapolis,United States,Maryland,northam,38.9786401,-76.4927860
+Harrisburg,United States,Pennsylvania,northam,40.2663107,-76.8861122
+Washington D.C,United States,Washington D.C,northam,38.8950368,-77.0365427
+Richmond,United States,Virginia,northam,37.5385087,-77.4342800
+Raleigh,United States,North Carolina,northam,35.7803977,-78.6390989
+Charleston,United States,West Virginia,northam,32.7876012,-79.9402728
+Miami,United States,Florida,northam,25.7741728,-80.1936200
+Columbia,United States,South Carolina,northam,34.0007493,-81.0343313
+Augusta,United States,Maine,northam,33.4709714,-81.9748429
+Columbus,United States,Ohio,northam,39.9622601,-83.0007065
+Detroit,United States,Michigan,northam,42.3315509,-83.0466403
+Tallahassee,United States,Florida,northam,30.4380832,-84.2809332
+Atlanta,United States,Georgia,northam,33.7489924,-84.3902644
+Lansing,United States,Michigan,northam,42.7337712,-84.5553805
+Frankfort,United States,Kentucky,northam,38.2009055,-84.8732836
+Indianapolis,United States,Indiana,northam,39.7683331,-86.1583502
+Montgomery,United States,Alabama,northam,32.3669656,-86.3006485
+Chicago,United States,Illinois,northam,41.8755616,-87.6244212
+Madison,United States,Wisconsin,northam,43.0747610,-89.3837613
+Springfield,United States,Illinois,northam,39.7990175,-89.6439575
+New Orleans,United States,Louisiana,northam,29.9499323,-90.0701156
+Jackson,United States,Mississippi,northam,32.2990384,-90.1847691
+Baton Rouge,United States,Louisiana,northam,30.4459596,-91.1873800
+Jefferson City,United States,Missouri,northam,38.5773590,-92.1724265
+Little Rock,United States,Arkansas,northam,34.7464809,-92.2895948
+Saint Paul,United States,Minnesota,northam,44.9500208,-93.0949764
+Des Moines,United States,Iowa,northam,41.5910323,-93.6046655
+Houston,United States,Texas,northam,29.7589382,-95.3676974
+Topeka,United States,Kansas,northam,39.0490110,-95.6775560
+Lincoln,United States,Nebraska,northam,40.8088861,-96.7077751
+Oklahoma City,United States,Oklahoma,northam,35.4729886,-97.5170536
+Austin,United States,Texas,northam,30.2711286,-97.7436995
+Nashville,United States,Tennessee,northam,37.4416863,-98.4225773
+San Antonio,United States,Texas,northam,29.4246002,-98.4951405
+Pierre,United States,South Dakota,northam,44.3683644,-100.3511367
+Bismarck,United States,North Dakota,northam,46.8083270,-100.7837390
+Cheyenne,United States,Wyoming,northam,41.1399810,-104.8202460
+Denver,United States,Colorado,northam,39.7392364,-104.9848623
+Santa Fe,United States,New Mexico,northam,35.6876096,-105.9384569
+Salt Lake City,United States,Utah,northam,40.7596198,-111.8867975
+Helena,United States,Montana,northam,46.5927425,-112.0362770
+Phoenix,United States,Arizona,northam,33.4484367,-112.0741417
+Boise,United States,Idaho,northam,43.6166163,-116.2008860
+Los Angeles,United States,California,northam,34.0536909,-118.2427660
+Carson City,United States,Nevada,northam,39.1677180,-119.7234381
+Sacramento,United States,California,northam,38.5810606,-121.4938950
+Seattle,United States,Washington,northam,47.6038321,-122.3300624
+San Francisco,United States,California,northam,37.7790262,-122.4199060
+Olympia,United States,Washington,northam,47.0451022,-122.8950075
+Salem,United States,Oregon,northam,44.9391565,-123.0331210
+Juneau,United States,Alaska,northam,58.3019496,-134.4197340
+Honolulu,United States,Hawaii,northam,21.3045470,-157.8556760
