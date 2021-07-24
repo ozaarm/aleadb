@@ -10,8 +10,4 @@ CONFIG : Number of records, values are easily customizable
 
 # About AleaDB
 
-- Learning with data
-If you are interested in computing, databases, data science, getting access to simple data to learn and play with is not easy. There are numerous Open Data datasets online but they are usually static tables. 
-
-- Real "fake" datasets
-AleaDB generates a Users table with any number of records you want. A Users table is the central point in a modern application, from an e-commerce website to a ride-hailing service to a social network. 
+Learning SQL and data science is not easy if you are missing data. Although there are numerous Open Data datasets online, there are not connected in a relational kind of way. Starting from a random Users table, AleaDB tries to mimic the database structure from an e-commerce website : Users, Products, Purchases, Orders. More options will follow in the future. 
