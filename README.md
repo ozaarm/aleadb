@@ -1,4 +1,4 @@
-#Getting Started
+# Getting Started
 
 AleaDB generates {n} random realistic values for a Users database with a given schema. The schema is also generated and avaible as a .sql file for import into database management system. Generated values are output as CSV, JSON, SQL files.
 
@@ -6,7 +6,7 @@ SYNTAX: $python3 a__users.py {number_of_records} , default is 50 records.
 
 
 
-#About AleaDB
+# About AleaDB
 
 - Learning with data
 If you are interested in computing, databases, data science, getting access to simple data to learn and play with is not easy. There are numerous Open Data datasets online but they are usually static tables. 
