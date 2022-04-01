@@ -2,7 +2,7 @@
 
 AleaDB generates {n} random values for a Users table, a Product table, a Purchases and Orders table. Output is CSV, JSON, SQL for the Users tabble and currently .CSV only for other tables.
 
-SYNTAX: $python3 a__users.py {number_of_records}
+SYNTAX: $python3 a_users.py {number_of_records}
 
 CONFIG : Number of records, values are easily customizable
 
